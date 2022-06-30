@@ -1,0 +1,25 @@
+/* Write your code here. */
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+}
+.bg-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: linear-gradient(
+    to right,
+    #9796f0,
+    #9796f0,
+    #ffffff33,
+    #fbc7d4
+  );
+  height: 100vh;
+}
+.ul-cont {
+  display: flex;
+  width: 60%;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,13 @@
+/* Write your code here. */
+.navbar {
+  display: flex;
+  background-color: #9796f0;
+  justify-content: space-between;
+  padding: 12px;
+  padding-left: 50px;
+  padding-right: 50px;
+  width: 100%;
+}
+.nav-items {
+  display: flex;
+}
